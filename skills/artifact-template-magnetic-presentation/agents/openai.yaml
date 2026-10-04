@@ -1,0 +1,7 @@
+interface:
+  display_name: "磁场计划专属演示 Magnetic Presentation"
+  short_description: "Create a presentation from this saved template"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-magnetic-presentation to create a presentation with this template."
+policy:
+  allow_implicit_invocation: true
